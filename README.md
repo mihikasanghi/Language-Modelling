@@ -1,4 +1,4 @@
-# ANLP Assignment 1 - Language Models Implementation
+Language Models Implementation
 
 ## Overview
 This repository contains implementations of three different language models:
